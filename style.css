@@ -1,0 +1,16 @@
+.dice {
+    border-radius: 10%;
+    margin-bottom: 5px;
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    
+}
